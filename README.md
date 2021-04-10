@@ -6,7 +6,7 @@
 
 ## Introduction:
   Connect :  
-   A webapp for formal discussion.
+       A webapp for formal discussion.
   
 ## Table of Contents:
 
