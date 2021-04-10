@@ -18,7 +18,7 @@
 
 ## Contributors:
 
-Team Name: Akatsuki Squad
+Team Akatsuki Squad
 
 * [Pritam Pawar](https://github.com/pritamp17)
 * [Yash Khandelwal](https://github.com/yash24septem)
