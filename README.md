@@ -5,7 +5,7 @@
 
 
 ## Introduction:
-  Connect 
+  Connect :  
    A webapp for formal discussion.
   
 ## Table of Contents:
