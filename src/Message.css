@@ -1,0 +1,30 @@
+.Message{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    color: white;
+}
+
+.Message__info{
+    margin-left: 20px;
+}
+.Message__timestamp{
+    color: gray;
+    margin-left: 20px;
+    font-size: x-small;
+}
+
+.Message__timestamp1{
+    color: gray;
+    margin-left: 20px;
+    font-size: small;
+}
+
+.Message__timestamp1{
+    cursor: pointer;
+    color:#40464b;
+}
+
+.Message__timestamp1:hover{
+    color: white;
+}

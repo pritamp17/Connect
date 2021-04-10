@@ -1,0 +1,44 @@
+.SidebarChannel:hover >h4 {
+color: white;
+background-color: #40464b;
+
+}
+
+.SidebarChannel >h4 {
+    display: flex;
+    flex-direction:row;
+    padding-left: 15px;
+    align-items: center;
+    background-color: #2f3135;
+    color: gray;
+    cursor: pointer;
+    
+}
+
+.SidebarChannel_hash{
+    font-size: 30px;
+    padding: 8px;
+}
+
+.SidebarChannel {
+    display: flex;
+    flex-direction: row;
+     background-color: #2f3135;
+     justify-content:space-around;
+     align-items:center;
+     
+}
+
+.sidebar__addChannel{
+    cursor: pointer;
+    color:#40464b;
+}
+
+.sidebar__addChannel:hover{
+    color: white;
+}
+
+.cont{
+    display:flex;
+    flex-direction:column;
+}
