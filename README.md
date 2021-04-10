@@ -5,8 +5,7 @@
 
 
 ## Introduction:
-  Connect :  
-       A webapp for formal discussion.
+  Connect :   A webapp for formal discussion.
   
 ## Table of Contents:
 
@@ -14,7 +13,7 @@
   1) React-js
   2) Redux
   3) Google Firebae
-  4)Material-ui
+  4) Material-ui
   
 
 ## Contributors:
