@@ -8,6 +8,9 @@
   Connect :   A webapp for formal discussion.
   
 ## Table of Contents:
+. Web app that allows only some specific emails to login which admin can control.
+. You can form differnt channels for discussing differnt topics.
+. you can share images and Pdf's .
 
 ## Technology Stack:
   1) React-js
