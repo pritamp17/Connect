@@ -25,6 +25,7 @@ Team Akatsuki Squad
 
 * [Pritam Pawar](https://github.com/pritamp17)
 * [Yash Khandelwal](https://github.com/yash24septem)
-
+## Presentation Link
+* https://drive.google.com/file/d/1IW7ORJ0hAEstzfZUAD-mISW-TdyN3jqA/view?usp=drivesdk
 ### Made at:
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
