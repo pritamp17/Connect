@@ -9,8 +9,8 @@
   
 ## Table of Contents:
 * Web app that allows only some specific emails to login which admin can control for example( @mnnit.ac.in ) .
-* You can create differnt channels for discussing different topics .
-* you can share images and Pdf's .
+* User can create differnt channels for discussing different topics .
+* User can share images and Pdf's .
 
 ## Technology Stack:
   1) React-js
