@@ -17,7 +17,7 @@
   2) Redux
   3) Google Firebae
   4) Material-ui
-  5) Pusher
+
   
 
 ## Contributors:
